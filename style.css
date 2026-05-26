@@ -1,0 +1,21 @@
+html {
+    cursor: url("../Stalker-Web-Page/images/cursor/cursor.cur"), auto;
+}
+
+a,
+button {
+    cursor: url("../Stalker-Web-Page/images/cursor/select.ani"), pointer;
+}
+
+input,
+textarea {
+    cursor: url("../Stalker-Web-Page/images/cursor/text.ani"), text;
+}
+
+.loading {
+    cursor: url("../Stalker-Web-Page/images/cursor/busy.ani"), wait;
+}
+
+.progress {
+    cursor: url("../Stalker-Web-Page/images/cursor/wib.ani"), progress;
+}
