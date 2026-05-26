@@ -1,5 +1,7 @@
 html {
     cursor: url("../Stalker-Web-Page/images/cursor/cursor.cur"), auto;
+    background-image: url("../Stalker-Web-Page/images/background.jpg");
+    background-size: cover;
 }
 
 a,
